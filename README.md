@@ -5,9 +5,12 @@ Repository to demo e2e test cases using cypress
 This is an example to showcase a subset of end-to-end test cases using Cypress.io as the front end automation tool. The test cases are show casing how to test a live site under specified business conditions.
 
 ## Prerequisites:
-### Operating Systems: Windows, Mac OS
-### Browsers: Chrome, Electron
-### Prerequisite: Follow these steps [here](https://docs.cypress.io/guides/getting-started/installing-cypress) for installating Cypress and other prerequisites
+### Operating Systems:
+Windows, Mac OS
+### Browsers:
+Chrome, Electron
+### Prerequisite:
+Follow these steps [here](https://docs.cypress.io/guides/getting-started/installing-cypress) for installating Cypress and other prerequisites
 
 ## Cloning the repo
 ```
