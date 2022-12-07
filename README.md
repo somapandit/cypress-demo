@@ -13,7 +13,7 @@ Follow these steps [here](https://docs.cypress.io/guides/getting-started/install
 ### Cloning the repo
 ```
 ## clone this repo to a local directory
-git clone https://github.com/<your-username>/cypress-demo.git
+git clone https://github.com/somapandit/cypress-demo.git
 
 ## cd into the cloned repo
 cd cypress-demo
